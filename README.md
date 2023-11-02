@@ -11,4 +11,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiyaowong&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiyaowong&theme=nord_bright&utcOffset=8)
 -->
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiyaowong&hide_title=true&hide_border=true&layout=compact&text_color=fff&theme=dark" />
+
+<div align="center" >
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiyaowong&hide_title=true&hide_border=true&theme=dark&text_color=eee" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiyaowong&hide_title=true&hide_border=true&layout=compact&text_color=eee&theme=dark" />
+
+</div>
